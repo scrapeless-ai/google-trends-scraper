@@ -1,0 +1,19 @@
+{
+  "name": "google-trends-scraper",
+  "version": "1.0.0",
+  "description": "scrapeless google trends scraper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-core": "^23.10.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}

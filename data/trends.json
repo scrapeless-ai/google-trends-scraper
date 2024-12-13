@@ -1,0 +1,2884 @@
+{
+  "default": {
+    "timelineData": [
+      {
+        "time": "1733479200",
+        "formattedTime": "Dec 6, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 6 at 10:00 AM",
+        "value": [
+          65,
+          35
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "35"
+        ]
+      },
+      {
+        "time": "1733482800",
+        "formattedTime": "Dec 6, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 6 at 11:00 AM",
+        "value": [
+          76,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "76",
+          "29"
+        ]
+      },
+      {
+        "time": "1733486400",
+        "formattedTime": "Dec 6, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 6 at 12:00 PM",
+        "value": [
+          90,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "90",
+          "27"
+        ]
+      },
+      {
+        "time": "1733490000",
+        "formattedTime": "Dec 6, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 6 at 1:00 PM",
+        "value": [
+          96,
+          26
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "96",
+          "26"
+        ]
+      },
+      {
+        "time": "1733493600",
+        "formattedTime": "Dec 6, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 6 at 2:00 PM",
+        "value": [
+          94,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "94",
+          "27"
+        ]
+      },
+      {
+        "time": "1733497200",
+        "formattedTime": "Dec 6, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 6 at 3:00 PM",
+        "value": [
+          96,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "96",
+          "27"
+        ]
+      },
+      {
+        "time": "1733500800",
+        "formattedTime": "Dec 6, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 6 at 4:00 PM",
+        "value": [
+          91,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "28"
+        ]
+      },
+      {
+        "time": "1733504400",
+        "formattedTime": "Dec 6, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 6 at 5:00 PM",
+        "value": [
+          95,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "95",
+          "29"
+        ]
+      },
+      {
+        "time": "1733508000",
+        "formattedTime": "Dec 6, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 6 at 6:00 PM",
+        "value": [
+          96,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "96",
+          "28"
+        ]
+      },
+      {
+        "time": "1733511600",
+        "formattedTime": "Dec 6, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 6 at 7:00 PM",
+        "value": [
+          91,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "32"
+        ]
+      },
+      {
+        "time": "1733515200",
+        "formattedTime": "Dec 6, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 6 at 8:00 PM",
+        "value": [
+          86,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "86",
+          "30"
+        ]
+      },
+      {
+        "time": "1733518800",
+        "formattedTime": "Dec 6, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 6 at 9:00 PM",
+        "value": [
+          80,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "80",
+          "29"
+        ]
+      },
+      {
+        "time": "1733522400",
+        "formattedTime": "Dec 6, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 6 at 10:00 PM",
+        "value": [
+          78,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "78",
+          "28"
+        ]
+      },
+      {
+        "time": "1733526000",
+        "formattedTime": "Dec 6, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 6 at 11:00 PM",
+        "value": [
+          72,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "72",
+          "29"
+        ]
+      },
+      {
+        "time": "1733529600",
+        "formattedTime": "Dec 7, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 7 at 12:00 AM",
+        "value": [
+          72,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "72",
+          "27"
+        ]
+      },
+      {
+        "time": "1733533200",
+        "formattedTime": "Dec 7, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 7 at 1:00 AM",
+        "value": [
+          68,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "28"
+        ]
+      },
+      {
+        "time": "1733536800",
+        "formattedTime": "Dec 7, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 7 at 2:00 AM",
+        "value": [
+          71,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "71",
+          "30"
+        ]
+      },
+      {
+        "time": "1733540400",
+        "formattedTime": "Dec 7, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 7 at 3:00 AM",
+        "value": [
+          67,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "29"
+        ]
+      },
+      {
+        "time": "1733544000",
+        "formattedTime": "Dec 7, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 7 at 4:00 AM",
+        "value": [
+          69,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "31"
+        ]
+      },
+      {
+        "time": "1733547600",
+        "formattedTime": "Dec 7, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 7 at 5:00 AM",
+        "value": [
+          67,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "36"
+        ]
+      },
+      {
+        "time": "1733551200",
+        "formattedTime": "Dec 7, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 7 at 6:00 AM",
+        "value": [
+          64,
+          37
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "64",
+          "37"
+        ]
+      },
+      {
+        "time": "1733554800",
+        "formattedTime": "Dec 7, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 7 at 7:00 AM",
+        "value": [
+          63,
+          39
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "63",
+          "39"
+        ]
+      },
+      {
+        "time": "1733558400",
+        "formattedTime": "Dec 7, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 7 at 8:00 AM",
+        "value": [
+          62,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "62",
+          "36"
+        ]
+      },
+      {
+        "time": "1733562000",
+        "formattedTime": "Dec 7, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 7 at 9:00 AM",
+        "value": [
+          59,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "59",
+          "36"
+        ]
+      },
+      {
+        "time": "1733565600",
+        "formattedTime": "Dec 7, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 7 at 10:00 AM",
+        "value": [
+          66,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "36"
+        ]
+      },
+      {
+        "time": "1733569200",
+        "formattedTime": "Dec 7, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 7 at 11:00 AM",
+        "value": [
+          73,
+          34
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "73",
+          "34"
+        ]
+      },
+      {
+        "time": "1733572800",
+        "formattedTime": "Dec 7, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 7 at 12:00 PM",
+        "value": [
+          68,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "27"
+        ]
+      },
+      {
+        "time": "1733576400",
+        "formattedTime": "Dec 7, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 7 at 1:00 PM",
+        "value": [
+          65,
+          25
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "25"
+        ]
+      },
+      {
+        "time": "1733580000",
+        "formattedTime": "Dec 7, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 7 at 2:00 PM",
+        "value": [
+          67,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "28"
+        ]
+      },
+      {
+        "time": "1733583600",
+        "formattedTime": "Dec 7, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 7 at 3:00 PM",
+        "value": [
+          65,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "27"
+        ]
+      },
+      {
+        "time": "1733587200",
+        "formattedTime": "Dec 7, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 7 at 4:00 PM",
+        "value": [
+          65,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "27"
+        ]
+      },
+      {
+        "time": "1733590800",
+        "formattedTime": "Dec 7, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 7 at 5:00 PM",
+        "value": [
+          65,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "28"
+        ]
+      },
+      {
+        "time": "1733594400",
+        "formattedTime": "Dec 7, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 7 at 6:00 PM",
+        "value": [
+          63,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "63",
+          "29"
+        ]
+      },
+      {
+        "time": "1733598000",
+        "formattedTime": "Dec 7, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 7 at 7:00 PM",
+        "value": [
+          65,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "29"
+        ]
+      },
+      {
+        "time": "1733601600",
+        "formattedTime": "Dec 7, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 7 at 8:00 PM",
+        "value": [
+          65,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "30"
+        ]
+      },
+      {
+        "time": "1733605200",
+        "formattedTime": "Dec 7, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 7 at 9:00 PM",
+        "value": [
+          66,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "30"
+        ]
+      },
+      {
+        "time": "1733608800",
+        "formattedTime": "Dec 7, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 7 at 10:00 PM",
+        "value": [
+          65,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "28"
+        ]
+      },
+      {
+        "time": "1733612400",
+        "formattedTime": "Dec 7, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 7 at 11:00 PM",
+        "value": [
+          64,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "64",
+          "27"
+        ]
+      },
+      {
+        "time": "1733616000",
+        "formattedTime": "Dec 8, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 8 at 12:00 AM",
+        "value": [
+          66,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "28"
+        ]
+      },
+      {
+        "time": "1733619600",
+        "formattedTime": "Dec 8, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 8 at 1:00 AM",
+        "value": [
+          67,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "28"
+        ]
+      },
+      {
+        "time": "1733623200",
+        "formattedTime": "Dec 8, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 8 at 2:00 AM",
+        "value": [
+          68,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "30"
+        ]
+      },
+      {
+        "time": "1733626800",
+        "formattedTime": "Dec 8, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 8 at 3:00 AM",
+        "value": [
+          66,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "31"
+        ]
+      },
+      {
+        "time": "1733630400",
+        "formattedTime": "Dec 8, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 8 at 4:00 AM",
+        "value": [
+          64,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "64",
+          "33"
+        ]
+      },
+      {
+        "time": "1733634000",
+        "formattedTime": "Dec 8, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 8 at 5:00 AM",
+        "value": [
+          70,
+          37
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "37"
+        ]
+      },
+      {
+        "time": "1733637600",
+        "formattedTime": "Dec 8, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 8 at 6:00 AM",
+        "value": [
+          73,
+          39
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "73",
+          "39"
+        ]
+      },
+      {
+        "time": "1733641200",
+        "formattedTime": "Dec 8, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 8 at 7:00 AM",
+        "value": [
+          71,
+          43
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "71",
+          "43"
+        ]
+      },
+      {
+        "time": "1733644800",
+        "formattedTime": "Dec 8, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 8 at 8:00 AM",
+        "value": [
+          70,
+          50
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "50"
+        ]
+      },
+      {
+        "time": "1733648400",
+        "formattedTime": "Dec 8, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 8 at 9:00 AM",
+        "value": [
+          66,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "40"
+        ]
+      },
+      {
+        "time": "1733652000",
+        "formattedTime": "Dec 8, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 8 at 10:00 AM",
+        "value": [
+          68,
+          41
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "41"
+        ]
+      },
+      {
+        "time": "1733655600",
+        "formattedTime": "Dec 8, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 8 at 11:00 AM",
+        "value": [
+          70,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "36"
+        ]
+      },
+      {
+        "time": "1733659200",
+        "formattedTime": "Dec 8, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 8 at 12:00 PM",
+        "value": [
+          66,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "28"
+        ]
+      },
+      {
+        "time": "1733662800",
+        "formattedTime": "Dec 8, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 8 at 1:00 PM",
+        "value": [
+          70,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "28"
+        ]
+      },
+      {
+        "time": "1733666400",
+        "formattedTime": "Dec 8, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 8 at 2:00 PM",
+        "value": [
+          67,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "28"
+        ]
+      },
+      {
+        "time": "1733670000",
+        "formattedTime": "Dec 8, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 8 at 3:00 PM",
+        "value": [
+          66,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "27"
+        ]
+      },
+      {
+        "time": "1733673600",
+        "formattedTime": "Dec 8, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 8 at 4:00 PM",
+        "value": [
+          65,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "27"
+        ]
+      },
+      {
+        "time": "1733677200",
+        "formattedTime": "Dec 8, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 8 at 5:00 PM",
+        "value": [
+          67,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "29"
+        ]
+      },
+      {
+        "time": "1733680800",
+        "formattedTime": "Dec 8, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 8 at 6:00 PM",
+        "value": [
+          67,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "30"
+        ]
+      },
+      {
+        "time": "1733684400",
+        "formattedTime": "Dec 8, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 8 at 7:00 PM",
+        "value": [
+          65,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "32"
+        ]
+      },
+      {
+        "time": "1733688000",
+        "formattedTime": "Dec 8, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 8 at 8:00 PM",
+        "value": [
+          61,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "61",
+          "29"
+        ]
+      },
+      {
+        "time": "1733691600",
+        "formattedTime": "Dec 8, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 8 at 9:00 PM",
+        "value": [
+          65,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "28"
+        ]
+      },
+      {
+        "time": "1733695200",
+        "formattedTime": "Dec 8, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 8 at 10:00 PM",
+        "value": [
+          63,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "63",
+          "29"
+        ]
+      },
+      {
+        "time": "1733698800",
+        "formattedTime": "Dec 8, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 8 at 11:00 PM",
+        "value": [
+          64,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "64",
+          "31"
+        ]
+      },
+      {
+        "time": "1733702400",
+        "formattedTime": "Dec 9, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 9 at 12:00 AM",
+        "value": [
+          64,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "64",
+          "29"
+        ]
+      },
+      {
+        "time": "1733706000",
+        "formattedTime": "Dec 9, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 9 at 1:00 AM",
+        "value": [
+          67,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "31"
+        ]
+      },
+      {
+        "time": "1733709600",
+        "formattedTime": "Dec 9, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 9 at 2:00 AM",
+        "value": [
+          62,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "62",
+          "33"
+        ]
+      },
+      {
+        "time": "1733713200",
+        "formattedTime": "Dec 9, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 9 at 3:00 AM",
+        "value": [
+          68,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "33"
+        ]
+      },
+      {
+        "time": "1733716800",
+        "formattedTime": "Dec 9, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 9 at 4:00 AM",
+        "value": [
+          65,
+          38
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "38"
+        ]
+      },
+      {
+        "time": "1733720400",
+        "formattedTime": "Dec 9, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 9 at 5:00 AM",
+        "value": [
+          67,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "40"
+        ]
+      },
+      {
+        "time": "1733724000",
+        "formattedTime": "Dec 9, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 9 at 6:00 AM",
+        "value": [
+          65,
+          42
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "65",
+          "42"
+        ]
+      },
+      {
+        "time": "1733727600",
+        "formattedTime": "Dec 9, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 9 at 7:00 AM",
+        "value": [
+          66,
+          42
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "42"
+        ]
+      },
+      {
+        "time": "1733731200",
+        "formattedTime": "Dec 9, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 9 at 8:00 AM",
+        "value": [
+          66,
+          43
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "43"
+        ]
+      },
+      {
+        "time": "1733734800",
+        "formattedTime": "Dec 9, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 9 at 9:00 AM",
+        "value": [
+          61,
+          37
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "61",
+          "37"
+        ]
+      },
+      {
+        "time": "1733738400",
+        "formattedTime": "Dec 9, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 9 at 10:00 AM",
+        "value": [
+          64,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "64",
+          "32"
+        ]
+      },
+      {
+        "time": "1733742000",
+        "formattedTime": "Dec 9, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 9 at 11:00 AM",
+        "value": [
+          69,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "29"
+        ]
+      },
+      {
+        "time": "1733745600",
+        "formattedTime": "Dec 9, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 9 at 12:00 PM",
+        "value": [
+          81,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "81",
+          "27"
+        ]
+      },
+      {
+        "time": "1733749200",
+        "formattedTime": "Dec 9, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 9 at 1:00 PM",
+        "value": [
+          89,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "89",
+          "27"
+        ]
+      },
+      {
+        "time": "1733752800",
+        "formattedTime": "Dec 9, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 9 at 2:00 PM",
+        "value": [
+          89,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "89",
+          "27"
+        ]
+      },
+      {
+        "time": "1733756400",
+        "formattedTime": "Dec 9, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 9 at 3:00 PM",
+        "value": [
+          82,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "82",
+          "30"
+        ]
+      },
+      {
+        "time": "1733760000",
+        "formattedTime": "Dec 9, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 9 at 4:00 PM",
+        "value": [
+          86,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "86",
+          "30"
+        ]
+      },
+      {
+        "time": "1733763600",
+        "formattedTime": "Dec 9, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 9 at 5:00 PM",
+        "value": [
+          83,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "83",
+          "30"
+        ]
+      },
+      {
+        "time": "1733767200",
+        "formattedTime": "Dec 9, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 9 at 6:00 PM",
+        "value": [
+          84,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "84",
+          "30"
+        ]
+      },
+      {
+        "time": "1733770800",
+        "formattedTime": "Dec 9, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 9 at 7:00 PM",
+        "value": [
+          82,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "82",
+          "30"
+        ]
+      },
+      {
+        "time": "1733774400",
+        "formattedTime": "Dec 9, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 9 at 8:00 PM",
+        "value": [
+          79,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "79",
+          "30"
+        ]
+      },
+      {
+        "time": "1733778000",
+        "formattedTime": "Dec 9, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 9 at 9:00 PM",
+        "value": [
+          76,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "76",
+          "31"
+        ]
+      },
+      {
+        "time": "1733781600",
+        "formattedTime": "Dec 9, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 9 at 10:00 PM",
+        "value": [
+          78,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "78",
+          "33"
+        ]
+      },
+      {
+        "time": "1733785200",
+        "formattedTime": "Dec 9, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 9 at 11:00 PM",
+        "value": [
+          74,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "74",
+          "31"
+        ]
+      },
+      {
+        "time": "1733788800",
+        "formattedTime": "Dec 10, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 10 at 12:00 AM",
+        "value": [
+          75,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "75",
+          "30"
+        ]
+      },
+      {
+        "time": "1733792400",
+        "formattedTime": "Dec 10, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 10 at 1:00 AM",
+        "value": [
+          76,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "76",
+          "33"
+        ]
+      },
+      {
+        "time": "1733796000",
+        "formattedTime": "Dec 10, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 10 at 2:00 AM",
+        "value": [
+          70,
+          34
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "34"
+        ]
+      },
+      {
+        "time": "1733799600",
+        "formattedTime": "Dec 10, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 10 at 3:00 AM",
+        "value": [
+          73,
+          35
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "73",
+          "35"
+        ]
+      },
+      {
+        "time": "1733803200",
+        "formattedTime": "Dec 10, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 10 at 4:00 AM",
+        "value": [
+          69,
+          38
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "38"
+        ]
+      },
+      {
+        "time": "1733806800",
+        "formattedTime": "Dec 10, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 10 at 5:00 AM",
+        "value": [
+          68,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "40"
+        ]
+      },
+      {
+        "time": "1733810400",
+        "formattedTime": "Dec 10, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 10 at 6:00 AM",
+        "value": [
+          67,
+          41
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "41"
+        ]
+      },
+      {
+        "time": "1733814000",
+        "formattedTime": "Dec 10, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 10 at 7:00 AM",
+        "value": [
+          71,
+          41
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "71",
+          "41"
+        ]
+      },
+      {
+        "time": "1733817600",
+        "formattedTime": "Dec 10, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 10 at 8:00 AM",
+        "value": [
+          69,
+          41
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "41"
+        ]
+      },
+      {
+        "time": "1733821200",
+        "formattedTime": "Dec 10, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 10 at 9:00 AM",
+        "value": [
+          67,
+          38
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "38"
+        ]
+      },
+      {
+        "time": "1733824800",
+        "formattedTime": "Dec 10, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 10 at 10:00 AM",
+        "value": [
+          69,
+          34
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "34"
+        ]
+      },
+      {
+        "time": "1733828400",
+        "formattedTime": "Dec 10, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 10 at 11:00 AM",
+        "value": [
+          80,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "80",
+          "32"
+        ]
+      },
+      {
+        "time": "1733832000",
+        "formattedTime": "Dec 10, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 10 at 12:00 PM",
+        "value": [
+          87,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "87",
+          "27"
+        ]
+      },
+      {
+        "time": "1733835600",
+        "formattedTime": "Dec 10, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 10 at 1:00 PM",
+        "value": [
+          90,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "90",
+          "27"
+        ]
+      },
+      {
+        "time": "1733839200",
+        "formattedTime": "Dec 10, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 10 at 2:00 PM",
+        "value": [
+          92,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "92",
+          "30"
+        ]
+      },
+      {
+        "time": "1733842800",
+        "formattedTime": "Dec 10, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 10 at 3:00 PM",
+        "value": [
+          93,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "93",
+          "31"
+        ]
+      },
+      {
+        "time": "1733846400",
+        "formattedTime": "Dec 10, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 10 at 4:00 PM",
+        "value": [
+          89,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "89",
+          "30"
+        ]
+      },
+      {
+        "time": "1733850000",
+        "formattedTime": "Dec 10, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 10 at 5:00 PM",
+        "value": [
+          91,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "29"
+        ]
+      },
+      {
+        "time": "1733853600",
+        "formattedTime": "Dec 10, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 10 at 6:00 PM",
+        "value": [
+          89,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "89",
+          "31"
+        ]
+      },
+      {
+        "time": "1733857200",
+        "formattedTime": "Dec 10, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 10 at 7:00 PM",
+        "value": [
+          91,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "30"
+        ]
+      },
+      {
+        "time": "1733860800",
+        "formattedTime": "Dec 10, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 10 at 8:00 PM",
+        "value": [
+          82,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "82",
+          "30"
+        ]
+      },
+      {
+        "time": "1733864400",
+        "formattedTime": "Dec 10, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 10 at 9:00 PM",
+        "value": [
+          86,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "86",
+          "31"
+        ]
+      },
+      {
+        "time": "1733868000",
+        "formattedTime": "Dec 10, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 10 at 10:00 PM",
+        "value": [
+          76,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "76",
+          "30"
+        ]
+      },
+      {
+        "time": "1733871600",
+        "formattedTime": "Dec 10, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 10 at 11:00 PM",
+        "value": [
+          77,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "77",
+          "31"
+        ]
+      },
+      {
+        "time": "1733875200",
+        "formattedTime": "Dec 11, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 11 at 12:00 AM",
+        "value": [
+          75,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "75",
+          "31"
+        ]
+      },
+      {
+        "time": "1733878800",
+        "formattedTime": "Dec 11, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 11 at 1:00 AM",
+        "value": [
+          68,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "32"
+        ]
+      },
+      {
+        "time": "1733882400",
+        "formattedTime": "Dec 11, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 11 at 2:00 AM",
+        "value": [
+          71,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "71",
+          "33"
+        ]
+      },
+      {
+        "time": "1733886000",
+        "formattedTime": "Dec 11, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 11 at 3:00 AM",
+        "value": [
+          70,
+          35
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "35"
+        ]
+      },
+      {
+        "time": "1733889600",
+        "formattedTime": "Dec 11, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 11 at 4:00 AM",
+        "value": [
+          69,
+          38
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "38"
+        ]
+      },
+      {
+        "time": "1733893200",
+        "formattedTime": "Dec 11, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 11 at 5:00 AM",
+        "value": [
+          68,
+          39
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "39"
+        ]
+      },
+      {
+        "time": "1733896800",
+        "formattedTime": "Dec 11, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 11 at 6:00 AM",
+        "value": [
+          68,
+          41
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "41"
+        ]
+      },
+      {
+        "time": "1733900400",
+        "formattedTime": "Dec 11, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 11 at 7:00 AM",
+        "value": [
+          68,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "40"
+        ]
+      },
+      {
+        "time": "1733904000",
+        "formattedTime": "Dec 11, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 11 at 8:00 AM",
+        "value": [
+          66,
+          39
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "39"
+        ]
+      },
+      {
+        "time": "1733907600",
+        "formattedTime": "Dec 11, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 11 at 9:00 AM",
+        "value": [
+          70,
+          37
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "37"
+        ]
+      },
+      {
+        "time": "1733911200",
+        "formattedTime": "Dec 11, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 11 at 10:00 AM",
+        "value": [
+          66,
+          34
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "66",
+          "34"
+        ]
+      },
+      {
+        "time": "1733914800",
+        "formattedTime": "Dec 11, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 11 at 11:00 AM",
+        "value": [
+          76,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "76",
+          "28"
+        ]
+      },
+      {
+        "time": "1733918400",
+        "formattedTime": "Dec 11, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 11 at 12:00 PM",
+        "value": [
+          83,
+          25
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "83",
+          "25"
+        ]
+      },
+      {
+        "time": "1733922000",
+        "formattedTime": "Dec 11, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 11 at 1:00 PM",
+        "value": [
+          94,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "94",
+          "27"
+        ]
+      },
+      {
+        "time": "1733925600",
+        "formattedTime": "Dec 11, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 11 at 2:00 PM",
+        "value": [
+          95,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "95",
+          "27"
+        ]
+      },
+      {
+        "time": "1733929200",
+        "formattedTime": "Dec 11, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 11 at 3:00 PM",
+        "value": [
+          93,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "93",
+          "27"
+        ]
+      },
+      {
+        "time": "1733932800",
+        "formattedTime": "Dec 11, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 11 at 4:00 PM",
+        "value": [
+          91,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "29"
+        ]
+      },
+      {
+        "time": "1733936400",
+        "formattedTime": "Dec 11, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 11 at 5:00 PM",
+        "value": [
+          89,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "89",
+          "28"
+        ]
+      },
+      {
+        "time": "1733940000",
+        "formattedTime": "Dec 11, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 11 at 6:00 PM",
+        "value": [
+          91,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "29"
+        ]
+      },
+      {
+        "time": "1733943600",
+        "formattedTime": "Dec 11, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 11 at 7:00 PM",
+        "value": [
+          90,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "90",
+          "29"
+        ]
+      },
+      {
+        "time": "1733947200",
+        "formattedTime": "Dec 11, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 11 at 8:00 PM",
+        "value": [
+          83,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "83",
+          "29"
+        ]
+      },
+      {
+        "time": "1733950800",
+        "formattedTime": "Dec 11, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 11 at 9:00 PM",
+        "value": [
+          77,
+          26
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "77",
+          "26"
+        ]
+      },
+      {
+        "time": "1733954400",
+        "formattedTime": "Dec 11, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 11 at 10:00 PM",
+        "value": [
+          79,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "79",
+          "30"
+        ]
+      },
+      {
+        "time": "1733958000",
+        "formattedTime": "Dec 11, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 11 at 11:00 PM",
+        "value": [
+          77,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "77",
+          "31"
+        ]
+      },
+      {
+        "time": "1733961600",
+        "formattedTime": "Dec 12, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 12 at 12:00 AM",
+        "value": [
+          74,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "74",
+          "31"
+        ]
+      },
+      {
+        "time": "1733965200",
+        "formattedTime": "Dec 12, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 12 at 1:00 AM",
+        "value": [
+          72,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "72",
+          "32"
+        ]
+      },
+      {
+        "time": "1733968800",
+        "formattedTime": "Dec 12, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 12 at 2:00 AM",
+        "value": [
+          68,
+          32
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "32"
+        ]
+      },
+      {
+        "time": "1733972400",
+        "formattedTime": "Dec 12, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 12 at 3:00 AM",
+        "value": [
+          69,
+          35
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "35"
+        ]
+      },
+      {
+        "time": "1733976000",
+        "formattedTime": "Dec 12, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 12 at 4:00 AM",
+        "value": [
+          70,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "70",
+          "36"
+        ]
+      },
+      {
+        "time": "1733979600",
+        "formattedTime": "Dec 12, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 12 at 5:00 AM",
+        "value": [
+          67,
+          38
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "38"
+        ]
+      },
+      {
+        "time": "1733983200",
+        "formattedTime": "Dec 12, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 12 at 6:00 AM",
+        "value": [
+          69,
+          43
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "43"
+        ]
+      },
+      {
+        "time": "1733986800",
+        "formattedTime": "Dec 12, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 12 at 7:00 AM",
+        "value": [
+          74,
+          41
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "74",
+          "41"
+        ]
+      },
+      {
+        "time": "1733990400",
+        "formattedTime": "Dec 12, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 12 at 8:00 AM",
+        "value": [
+          67,
+          39
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "67",
+          "39"
+        ]
+      },
+      {
+        "time": "1733994000",
+        "formattedTime": "Dec 12, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 12 at 9:00 AM",
+        "value": [
+          68,
+          36
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "36"
+        ]
+      },
+      {
+        "time": "1733997600",
+        "formattedTime": "Dec 12, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 12 at 10:00 AM",
+        "value": [
+          69,
+          34
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "34"
+        ]
+      },
+      {
+        "time": "1734001200",
+        "formattedTime": "Dec 12, 2024 at 11:00 AM",
+        "formattedAxisTime": "Dec 12 at 11:00 AM",
+        "value": [
+          75,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "75",
+          "30"
+        ]
+      },
+      {
+        "time": "1734004800",
+        "formattedTime": "Dec 12, 2024 at 12:00 PM",
+        "formattedAxisTime": "Dec 12 at 12:00 PM",
+        "value": [
+          82,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "82",
+          "27"
+        ]
+      },
+      {
+        "time": "1734008400",
+        "formattedTime": "Dec 12, 2024 at 1:00 PM",
+        "formattedAxisTime": "Dec 12 at 1:00 PM",
+        "value": [
+          99,
+          25
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "99",
+          "25"
+        ]
+      },
+      {
+        "time": "1734012000",
+        "formattedTime": "Dec 12, 2024 at 2:00 PM",
+        "formattedAxisTime": "Dec 12 at 2:00 PM",
+        "value": [
+          98,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "98",
+          "29"
+        ]
+      },
+      {
+        "time": "1734015600",
+        "formattedTime": "Dec 12, 2024 at 3:00 PM",
+        "formattedAxisTime": "Dec 12 at 3:00 PM",
+        "value": [
+          100,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "100",
+          "28"
+        ]
+      },
+      {
+        "time": "1734019200",
+        "formattedTime": "Dec 12, 2024 at 4:00 PM",
+        "formattedAxisTime": "Dec 12 at 4:00 PM",
+        "value": [
+          98,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "98",
+          "29"
+        ]
+      },
+      {
+        "time": "1734022800",
+        "formattedTime": "Dec 12, 2024 at 5:00 PM",
+        "formattedAxisTime": "Dec 12 at 5:00 PM",
+        "value": [
+          98,
+          27
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "98",
+          "27"
+        ]
+      },
+      {
+        "time": "1734026400",
+        "formattedTime": "Dec 12, 2024 at 6:00 PM",
+        "formattedAxisTime": "Dec 12 at 6:00 PM",
+        "value": [
+          95,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "95",
+          "29"
+        ]
+      },
+      {
+        "time": "1734030000",
+        "formattedTime": "Dec 12, 2024 at 7:00 PM",
+        "formattedAxisTime": "Dec 12 at 7:00 PM",
+        "value": [
+          95,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "95",
+          "30"
+        ]
+      },
+      {
+        "time": "1734033600",
+        "formattedTime": "Dec 12, 2024 at 8:00 PM",
+        "formattedAxisTime": "Dec 12 at 8:00 PM",
+        "value": [
+          91,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "91",
+          "29"
+        ]
+      },
+      {
+        "time": "1734037200",
+        "formattedTime": "Dec 12, 2024 at 9:00 PM",
+        "formattedAxisTime": "Dec 12 at 9:00 PM",
+        "value": [
+          86,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "86",
+          "30"
+        ]
+      },
+      {
+        "time": "1734040800",
+        "formattedTime": "Dec 12, 2024 at 10:00 PM",
+        "formattedAxisTime": "Dec 12 at 10:00 PM",
+        "value": [
+          81,
+          30
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "81",
+          "30"
+        ]
+      },
+      {
+        "time": "1734044400",
+        "formattedTime": "Dec 12, 2024 at 11:00 PM",
+        "formattedAxisTime": "Dec 12 at 11:00 PM",
+        "value": [
+          77,
+          28
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "77",
+          "28"
+        ]
+      },
+      {
+        "time": "1734048000",
+        "formattedTime": "Dec 13, 2024 at 12:00 AM",
+        "formattedAxisTime": "Dec 13 at 12:00 AM",
+        "value": [
+          79,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "79",
+          "31"
+        ]
+      },
+      {
+        "time": "1734051600",
+        "formattedTime": "Dec 13, 2024 at 1:00 AM",
+        "formattedAxisTime": "Dec 13 at 1:00 AM",
+        "value": [
+          76,
+          29
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "76",
+          "29"
+        ]
+      },
+      {
+        "time": "1734055200",
+        "formattedTime": "Dec 13, 2024 at 2:00 AM",
+        "formattedAxisTime": "Dec 13 at 2:00 AM",
+        "value": [
+          73,
+          31
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "73",
+          "31"
+        ]
+      },
+      {
+        "time": "1734058800",
+        "formattedTime": "Dec 13, 2024 at 3:00 AM",
+        "formattedAxisTime": "Dec 13 at 3:00 AM",
+        "value": [
+          71,
+          33
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "71",
+          "33"
+        ]
+      },
+      {
+        "time": "1734062400",
+        "formattedTime": "Dec 13, 2024 at 4:00 AM",
+        "formattedAxisTime": "Dec 13 at 4:00 AM",
+        "value": [
+          71,
+          35
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "71",
+          "35"
+        ]
+      },
+      {
+        "time": "1734066000",
+        "formattedTime": "Dec 13, 2024 at 5:00 AM",
+        "formattedAxisTime": "Dec 13 at 5:00 AM",
+        "value": [
+          73,
+          38
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "73",
+          "38"
+        ]
+      },
+      {
+        "time": "1734069600",
+        "formattedTime": "Dec 13, 2024 at 6:00 AM",
+        "formattedAxisTime": "Dec 13 at 6:00 AM",
+        "value": [
+          73,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "73",
+          "40"
+        ]
+      },
+      {
+        "time": "1734073200",
+        "formattedTime": "Dec 13, 2024 at 7:00 AM",
+        "formattedAxisTime": "Dec 13 at 7:00 AM",
+        "value": [
+          68,
+          39
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "68",
+          "39"
+        ]
+      },
+      {
+        "time": "1734076800",
+        "formattedTime": "Dec 13, 2024 at 8:00 AM",
+        "formattedAxisTime": "Dec 13 at 8:00 AM",
+        "value": [
+          69,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "40"
+        ]
+      },
+      {
+        "time": "1734080400",
+        "formattedTime": "Dec 13, 2024 at 9:00 AM",
+        "formattedAxisTime": "Dec 13 at 9:00 AM",
+        "value": [
+          72,
+          40
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "72",
+          "40"
+        ]
+      },
+      {
+        "time": "1734084000",
+        "formattedTime": "Dec 13, 2024 at 10:00 AM",
+        "formattedAxisTime": "Dec 13 at 10:00 AM",
+        "value": [
+          69,
+          34
+        ],
+        "hasData": [
+          true,
+          true
+        ],
+        "formattedValue": [
+          "69",
+          "34"
+        ],
+        "isPartial": true
+      }
+    ],
+    "averages": [
+      75,
+      32
+    ]
+  }
+}
